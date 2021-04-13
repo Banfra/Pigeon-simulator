@@ -1,16 +1,16 @@
-## 8INF957
+# 8INF957
 Bastien Anfray - Clément de Gaillande
 
 ## Question 1 : Pigeons
 
-# Instructions pour jouer au jeu :
+## Instructions pour jouer au jeu :
 
 Pour jouer au jeu, lancer le programme via le main présent dans la classe Main.java
 Une fenêtre s'ouvrira, le jeu débutera automatiquement.
 
 Pour ajouter de la nourriture, il vous suffit de cliquer sur l'écran.
 
-## Rapport
+# Rapport
 
 Dans cette question, nous devions simuler un système de pigeons qui mangent du pain.
 
